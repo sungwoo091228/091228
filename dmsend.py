@@ -34,4 +34,4 @@ async def on_message(message):
                     pass
 
 
-client.run('봇의 토큰을 넣어주세용')
+client.run('Nzk4ODkwNTkxNTMzNDAwMDg1.X_7m1w.QwV7jIzgLmS1fltOsCtRCl_fENk')
